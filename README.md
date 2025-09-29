@@ -125,19 +125,14 @@ This repo is divided into **levels of difficulty**:
 ## 👤 Author
 
 **Tayab Ghafor**
-📍 Lahore, Pakistan
-💻 Software Engineer | QA Automation | Web Developer
-📧 Email: **[tayabghafor@gmail.com](mailto:tayabghafor@gmail.com)**
-🌐 GitHub: [TayabGhafor](https://github.com/TayabGhafor)
-🔗 LinkedIn: [Your LinkedIn Profile](#)
+- 📍 Lahore, Pakistan
+- 💻 Software Engineer | QA Automation | Web Developer
+- 📧 Email: **[tayabghafor@gmail.com](mailto:tayabghafor@gmail.com)**
+- 🌐 GitHub: [TayabGhafor](https://github.com/TayabGhafor)
+- 🔗 LinkedIn: [Tayab Malik](https://www.linkedin.com/in/tayabmalik/)
 
 ---
 
 ⭐ If you find this repository helpful, don’t forget to **star** the repo!
 
-```
 
----
-
-Do you want me to also **add a `requirements.txt` file** for Selenium and WebDriver Manager (so users don’t need to download drivers manually)?
-```
