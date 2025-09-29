@@ -119,6 +119,12 @@ This repo is divided into **levels of difficulty**:
 ## 📸 Demo Screenshots
 
 *Coming soon...* (Screenshots of test execution or browser automation in action)
+## 📸 Demo Video  
+
+🎥 You can watch the full Sauce Demo automation video here:  
+[▶️ Sauce Demo Automation Video](https://drive.google.com/file/d/1lkIn1Tfp6stswiAmM2ptmfegpTnWrNSK/view?usp=sharing)
+
+
 
 ---
 
@@ -134,5 +140,6 @@ This repo is divided into **levels of difficulty**:
 ---
 
 ⭐ If you find this repository helpful, don’t forget to **star** the repo!
+
 
 
