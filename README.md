@@ -88,10 +88,13 @@ Will include:
 
 ## 🔗 Navigation
 
-* 🏠 [Basic Scripts](./Basic)
-* 📘 [Intermediate Scripts](./Intermediate)
-* 📗 [Advanced (Upcoming)](./Advanced)
-* 📙 [Home](./)
+  🏠 [Basic Scripts](./Basic)
+  
+  📘 [Intermediate Scripts](./Intermediate)
+  
+  📗 [Advanced (Upcoming)](./Advanced)
+  
+  📙 [Home](./)
 
 ---
 
@@ -99,6 +102,7 @@ Will include:
 
 🎥 Full **Sauce Demo Automation Video** available here:
 [▶️ Watch here](https://drive.google.com/file/d/1lkIn1Tfp6stswiAmM2ptmfegpTnWrNSK/view?usp=sharing)
+
 🎥 Full **Dropdown, CheckBox, Form-Submission, Alerts and Pop-ups Handeling Automation Video** available here:
 [▶️ Watch here](https://drive.google.com/file/d/1NWwwrVK1eATATNmrlqi4ZJV6D5_Flppb/view?usp=sharing)
 
@@ -147,6 +151,7 @@ Will include:
 ---
 
 ⭐ Don’t forget to **star** the repo if you find it useful!
+
 
 
 
