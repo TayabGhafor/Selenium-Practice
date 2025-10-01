@@ -88,10 +88,10 @@ Will include:
 
 ## 🔗 Navigation
 
-* [Basic Scripts](./Basic)
-* [Intermediate Scripts](./Intermediate)
-* [Advanced (Upcoming)](./Advanced)
-* [Home](./README.md)
+* 🏠 [Basic Scripts](./Basic)
+* 📘 [Intermediate Scripts](./Intermediate)
+* 📗 [Advanced (Upcoming)](./Advanced)
+* 📙 [Home](./)
 
 ---
 
@@ -145,6 +145,7 @@ Will include:
 ---
 
 ⭐ Don’t forget to **star** the repo if you find it useful!
+
 
 
 
