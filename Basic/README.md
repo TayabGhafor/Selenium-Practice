@@ -17,7 +17,7 @@ It is designed for beginners who are just starting with automation testing.
 
 ## 🔗 Navigation  
 
-- ⬅️ [Home](../)  
-- 🔹 [Intermediate Scripts](../Intermediate/README.md)  
-- 🔹 [Advanced Scripts](../Advanced/README.md)  
+ ⬅️ [Home](../)  
+ 🔹 [Intermediate Scripts](../Intermediate/README.md)  
+ 🔹 [Advanced Scripts](../Advanced/README.md)  
 
