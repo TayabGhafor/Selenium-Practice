@@ -88,13 +88,13 @@ Will include:
 
 ## 🔗 Navigation
 
-  🏠 [Basic Scripts](./Basic)
+  📘 [Basic Scripts](./Basic)
   
-  📘 [Intermediate Scripts](./Intermediate)
+  📗 [Intermediate Scripts](./Intermediate)
   
-  📗 [Advanced (Upcoming)](./Advanced)
+  📙 [Advanced (Upcoming)](./Advanced)
   
-  📙 [Home](./)
+  🏠 [Home](./)
 
 ---
 
@@ -144,13 +144,14 @@ Will include:
 
 * 📍 Lahore, Pakistan
 * 💻 Software Engineer | QA Automation | Web Developer
-* 📧 [tayabghafor@gmail.com](mailto:tayabghafor@gmail.com)
-* 🌐 [GitHub: TayabGhafor](https://github.com/TayabGhafor)
-* 🔗 [LinkedIn: Tayab Malik](https://www.linkedin.com/in/tayabmalik/)
+* 📧 Email: [tayabghafor@gmail.com](mailto:tayabghafor@gmail.com)
+* 🌐 GitHub: [TayabGhafor](https://github.com/TayabGhafor)
+* 🔗 LinkedIn: [Tayab Malik](https://www.linkedin.com/in/tayabmalik/)
 
 ---
 
 ⭐ Don’t forget to **star** the repo if you find it useful!
+
 
 
 
