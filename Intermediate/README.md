@@ -25,7 +25,7 @@ This folder focuses on **interactive web elements** such as checkboxes, dropdown
 
 ## 🔗 Navigation  
 
- ⬅️ [Home](../)  
- 🔹 [Basic Scripts](../Basic/README.md)  
- 🔹 [Advanced Scripts](../Advanced/README.md)  
+ 🏠 [Home](../)  
+ 📘 [Basic Scripts](../Basic/README.md)  
+ 📙 [Advanced Scripts](../Advanced/README.md)  
 
