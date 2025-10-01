@@ -1,7 +1,7 @@
-
 # 🐍 Selenium Practice Repository  
 
-This repository contains practice scripts and exercises for **Selenium WebDriver** in Python. It is structured into different levels (Basic, Intermediate, etc.) to help you gradually improve your **automation testing** and **web scraping** skills.  
+This repository contains practice scripts and exercises for **Selenium WebDriver** in Python.  
+The project is organized into **Basic, Intermediate, and Advanced** levels, each with its own README explaining what’s covered in that folder.  
 
 ---
 
@@ -11,135 +11,139 @@ This repository contains practice scripts and exercises for **Selenium WebDriver
 Selenium-Practice/
 │
 ├── Basic/                 # Beginner-level Selenium scripts
-│   ├── Locators.py        # Practice using different locators
-│   ├── Multi-Locators.py  # Handling multiple locators
-│   ├── Navigation.py      # Navigating between pages
-│   ├── firsttest.py       # First Selenium test script
-│   └── saucelabs.py       # Sauce demo automation test
+│   ├── Locators.py
+│   ├── Multi-Locators.py
+│   ├── Navigation.py
+│   ├── firsttest.py
+│   ├── saucelabs.py
+│   └── README.md
 │
-├── Intermediate/          # Intermediate-level scripts
-│   └── checkBox.py        # Handling checkboxes
+├── Intermediate/          # Intermediate-level Selenium scripts
+│   ├── alerts_and_popup.py
+│   ├── checkBox.py
+│   ├── dropdowns.py
+│   └── README.md
 │
-├── .idea/                 # IDE configuration files (ignore)
+├── Advanced/              # Advanced concepts (coming soon)
+│   └── README.md
 │
-└── README.md              # Project documentation
+├── assets/                # Videos, screenshots, and resources
+│
+└── README.md              # Main project documentation
 ````
 
 ---
 
 ## 🚀 Features
 
-* ✅ Practice with different types of **locators** (`id`, `name`, `class`, `xpath`, `css selector`, etc.)
-* ✅ Multiple locator handling in a single script
-* ✅ Page navigation examples
-* ✅ First Selenium test script setup
-* ✅ **Sauce Labs** demo automation script
-* ✅ Checkbox handling (Intermediate level)
-* ✅ Well-structured project for learning step by step
+* ✅ Practice with **locators** (`id`, `name`, `class`, `xpath`, `css selector`, etc.)
+* ✅ Multiple locators in one script
+* ✅ Navigation between pages
+* ✅ End-to-end automation with **Sauce Labs Demo**
+* ✅ Handling **alerts, popups, and confirmations**
+* ✅ Working with **checkboxes** and **dropdowns** (single & multi-select)
+* ✅ **Form handling & submission** automation
+* ✅ Structured learning path (Basic → Intermediate → Advanced)
 
 ---
 
-## 🛠️ Installation & Setup
+## 📖 Folder Details
 
-### 1. Clone the Repository
+### 🔹 [Basic](./Basic/README.md)
 
-```bash
-git clone https://github.com/TayabGhafor/Selenium-Practice.git
-cd Selenium-Practice
-```
+Covers Selenium fundamentals:
 
-### 2. Create a Virtual Environment (Recommended)
-
-```bash
-python3 -m venv venv
-source venv/bin/activate   # On macOS/Linux
-venv\Scripts\activate      # On Windows
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-If a `requirements.txt` file is missing, you can manually install Selenium:
-
-```bash
-pip install selenium
-```
-
-### 4. Download WebDriver
-
-* For **Chrome**: [ChromeDriver](https://chromedriver.chromium.org/downloads)
-* For **Firefox**: [GeckoDriver](https://github.com/mozilla/geckodriver/releases)
-
-Ensure the driver is added to your system **PATH**.
+* Locators (single & multiple)
+* Navigation
+* First Selenium test script
+* Sauce Labs demo automation
 
 ---
 
-## 📖 Usage
+### 🔹 [Intermediate](./Intermediate/README.md)
 
-Run any Python file from the respective folder:
+Focuses on interactive elements:
 
-```bash
-# Example: Running Locators practice
-python Basic/Locators.py
-```
+* **alerts_and_popup.py** → handling **simple alerts, confirmation alerts, and prompt alerts**
+* **checkBox.py** → working with checkboxes (selection & validation)
+* **dropdowns.py** →
 
-```bash
-# Example: Running Sauce Labs demo automation
-python Basic/saucelabs.py
-```
-
-```bash
-# Example: Running Intermediate script
-python Intermediate/checkBox.py
-```
+  * Single & multi-select checkboxes
+  * Dropdowns (static & dynamic)
+  * Form submission & handling
 
 ---
 
-## 📚 Learning Roadmap
+### 🔹 [Advanced](./Advanced/README.md) *(coming soon)*
 
-This repo is divided into **levels of difficulty**:
+Will include:
 
-1. **Basic** – Core concepts of Selenium (Locators, Navigation, First Test)
-2. **Intermediate** – Slightly advanced topics (Checkbox handling, form elements, waits, etc.)
-3. **Advanced (Upcoming)** – Page Object Model (POM), Data-Driven Testing, PyTest Integration, Parallel Execution, CI/CD
-
----
-
-## 🔗 Navigation Links
-
-* [Basic Scripts](./Basic)
-* [Intermediate Scripts](./Intermediate)
-* [Sauce Labs Demo](./Basic/saucelabs.py)
+* Page Object Model (POM)
+* Data-driven testing
+* PyTest integration
+* Parallel execution
+* CI/CD integration
 
 ---
 
-## 📸 Demo Screenshots
+## 🔗 Navigation
 
-*Coming soon...* (Screenshots of test execution or browser automation in action)
-## 📸 Demo Video  
+* [Basic Scripts](./Basic/README.md)
+* [Intermediate Scripts](./Intermediate/README.md)
+* [Advanced (Upcoming)](./Advanced/README.md)
+* [Root README](./README.md)
 
-🎥 You can watch the full Sauce Demo automation video here:  
-[▶️ Sauce Demo Automation Video](https://drive.google.com/file/d/1lkIn1Tfp6stswiAmM2ptmfegpTnWrNSK/view?usp=sharing)
+---
 
+## 📹 Demo Video
 
+🎥 Full **Sauce Demo Automation Video** available here:
+[▶️ Watch on Google Drive](https://drive.google.com/file/d/1lkIn1Tfp6stswiAmM2ptmfegpTnWrNSK/view?usp=sharing)
+
+---
+
+## 🛠️ Setup Instructions
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/TayabGhafor/Selenium-Practice.git
+   cd Selenium-Practice
+   ```
+
+2. Create a virtual environment
+
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate   # macOS/Linux
+   venv\Scripts\activate      # Windows
+   ```
+
+3. Install dependencies
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Download WebDriver
+
+   * [ChromeDriver](https://chromedriver.chromium.org/downloads)
+   * [GeckoDriver](https://github.com/mozilla/geckodriver/releases)
 
 ---
 
 ## 👤 Author
 
 **Tayab Ghafor**
-- 📍 Lahore, Pakistan
-- 💻 Software Engineer | QA Automation | Web Developer
-- 📧 Email: **[tayabghafor@gmail.com](mailto:tayabghafor@gmail.com)**
-- 🌐 GitHub: [TayabGhafor](https://github.com/TayabGhafor)
-- 🔗 LinkedIn: [Tayab Malik](https://www.linkedin.com/in/tayabmalik/)
+
+* 📍 Lahore, Pakistan
+* 💻 Software Engineer | QA Automation | Web Developer
+* 📧 [tayabghafor@gmail.com](mailto:tayabghafor@gmail.com)
+* 🌐 [GitHub: TayabGhafor](https://github.com/TayabGhafor)
+* 🔗 [LinkedIn: Tayab Malik](https://www.linkedin.com/in/tayabmalik/)
 
 ---
 
-⭐ If you find this repository helpful, don’t forget to **star** the repo!
-
+⭐ Don’t forget to **star** the repo if you find it useful!
 
 
