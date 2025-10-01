@@ -17,6 +17,6 @@ Currently under development. 🚧
 
 ## 🔗 Navigation  
 
-⬅️ [Home](../)  
- 🔹 [Basic Scripts](../Basic/README.md)  
- 🔹 [Intermediate Scripts](../Intermediate/README.md)  
+🏠 [Home](../)  
+ 📘 [Basic Scripts](../Basic/README.md)  
+ 📗 [Intermediate Scripts](../Intermediate/README.md)  
