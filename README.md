@@ -49,7 +49,7 @@ Selenium-Practice/
 
 ## 📖 Folder Details
 
-### 🔹 [Basic](./Basic/README.md)
+### 🔹 [Basic](./Basic)
 
 Covers Selenium fundamentals:
 
@@ -60,7 +60,7 @@ Covers Selenium fundamentals:
 
 ---
 
-### 🔹 [Intermediate](./Intermediate/README.md)
+### 🔹 [Intermediate](./Intermediate)
 
 Focuses on interactive elements:
 
@@ -74,7 +74,7 @@ Focuses on interactive elements:
 
 ---
 
-### 🔹 [Advanced](./Advanced/README.md) *(coming soon)*
+### 🔹 [Advanced](./Advanced) *(coming soon)*
 
 Will include:
 
@@ -88,10 +88,10 @@ Will include:
 
 ## 🔗 Navigation
 
-* [Basic Scripts](./Basic/README.md)
-* [Intermediate Scripts](./Intermediate/README.md)
-* [Advanced (Upcoming)](./Advanced/README.md)
-* [Root README](./README.md)
+* [Basic Scripts](./Basic)
+* [Intermediate Scripts](./Intermediate)
+* [Advanced (Upcoming)](./Advanced)
+* [Home](./README.md)
 
 ---
 
@@ -145,5 +145,6 @@ Will include:
 ---
 
 ⭐ Don’t forget to **star** the repo if you find it useful!
+
 
 
